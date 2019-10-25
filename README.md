@@ -1,2 +1,5 @@
-# hello-world
-learning hello world
+#inclide<stdio.h>
+int main()
+{
+  printf("hello-adarsh\n");
+}
